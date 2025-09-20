@@ -52,27 +52,3 @@ _Caption: The ROC curve illustrates the model's ability to distinguish between c
 
 _Caption: The SHAP summary plot ranks features by their impact on the model's predictions._
 
-
-## 🚀 Getting Started
-
-### Prerequisites
-Ensure you have Python 3.x installed. You will need the libraries listed in the Tech Stack section.
-
-### Installation
-1.  Clone the repository to your local machine:
-    ```bash
-    git clone [https://github.com/your-username/credit-card-default-prediction.git](https://github.com/your-username/credit-card-default-prediction.git)
-    cd credit-card-default-prediction
-    ```
-2.  Install the required packages:
-    ```bash
-    pip install pandas scikit-learn tensorflow keras-tuner shap matplotlib joblib
-    ```
-
-## 🔧 Usage
-To run the project and reproduce the results, execute the Jupyter Notebook:
-1.  Launch Jupyter Notebook or Jupyter Lab.
-2.  Open the `uci-credit-card-project.ipynb` file.
-3.  Run the cells sequentially from top to bottom.
-
-The trained model and other artifacts will be saved in the `saved_models/` or `artifacts/` directory upon completion.

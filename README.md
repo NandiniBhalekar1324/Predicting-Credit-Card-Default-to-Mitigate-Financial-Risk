@@ -54,6 +54,6 @@ _Caption: The SHAP summary plot ranks features by their impact on the model's pr
 
 
 
-📌<br> **[View the Project on Kaggle](https://www.kaggle.com/code/bhalekarnandini/credit-card-default-prediction-using-deep-learning)**
+<br> **[📌View the Project on Kaggle](https://www.kaggle.com/code/bhalekarnandini/credit-card-default-prediction-using-deep-learning)**
 
 

@@ -47,7 +47,7 @@ The final, tuned model achieved strong predictive performance on the unseen test
 ![ROC Curve](images/roc_curve.png)
 _Caption: The ROC curve illustrates the model's ability to distinguish between classes, achieving an AUC of 0.769._
 
-![SHAP Summary](images/shap_summary.png)
+![SHAP Summary](shap summary.png)
 _Caption: The SHAP summary plot ranks features by their impact on the model's predictions._
 
 ## 🚀 Getting Started

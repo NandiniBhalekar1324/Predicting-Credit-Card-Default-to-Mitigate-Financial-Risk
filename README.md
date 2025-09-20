@@ -52,3 +52,8 @@ _Caption: The ROC curve illustrates the model's ability to distinguish between c
 
 _Caption: The SHAP summary plot ranks features by their impact on the model's predictions._
 
+
+
+📌<br> **[View the Project on Kaggle](https://www.kaggle.com/code/bhalekarnandini/credit-card-default-prediction-using-deep-learning)**
+
+

@@ -45,9 +45,11 @@ The final, tuned model achieved strong predictive performance on the unseen test
 * **Model Explainability**: The SHAP summary plot provided clear insights into the model's decision-making process, highlighting the importance of features like payment history (`PAY_0`) in predicting default.
 
 ![ROC Curve](images/ROC_curve.png)
+
 _Caption: The ROC curve illustrates the model's ability to distinguish between classes, achieving an AUC of 0.769._
 
 ![SHAP Summary](images/shap_summary.png)
+
 _Caption: The SHAP summary plot ranks features by their impact on the model's predictions._
 
 
